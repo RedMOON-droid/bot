@@ -79,7 +79,7 @@ client.on('message', (message) => {
       .addBlankField()
       .addField('농작물캐기(농사)', '2000번')
       .addField('돌캐기(광질)', '5000번', true)
-      .addField('낚시', '50번', true)
+      .addField('낚시(포켓몬낚시)', '50번', true)
       .addField('우박사 포켓몬 기부', '50번', true)
       .addField('화석 채광', '10번', true)
       .addField('도전과제 올클리어', '1번', true)
