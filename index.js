@@ -77,7 +77,7 @@ client.on('message', (message) => {
       .setAuthor('RedMOON', img, 'http://www.naver.com')
       .setThumbnail(img)
       .addBlankField()
-      .addField('농사(농작물캐기)', '2000번')
+      .addField('농작물캐기(농사)', '2000번')
       .addField('돌캐기(광질)', '5000번', true)
       .addField('낚시', '50번', true)
       .addField('우박사 포켓몬 기부', '50번', true)
