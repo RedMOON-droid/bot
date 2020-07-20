@@ -78,7 +78,7 @@ client.on('message', (message) => {
       .setThumbnail(img)
       .addBlankField()
       .addField('농사(농작물캐기)', '2000번')
-      .addField('광질(돌캐기)', '5000번', true)
+      .addField('돌캐기(광질)', '5000번', true)
       .addField('낚시', '50번', true)
       .addField('우박사 포켓몬 기부', '50번', true)
       .addField('화석 채광', '10번', true)
